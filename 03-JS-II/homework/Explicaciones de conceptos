@@ -1,0 +1,7 @@
+For: for es como una calesita que gira la cantidad de veces que nosotros le decimos, podemos decir de a cuantas vueltas avanza (1, 2 o lo que queramos) y puede iniciar con una cantidad de vueltas definidas por nosotros
+
+&&: se traduciria como " Y " (YCombinator ahre. Ustedes me entienden) al español para asi establecer por ejemplo condiciones a cumplir EJ: (i debe ser igual a C && B)
+
+|| se traduce como " O " EJ: (i deber ser igual a C || B)
+
+! es como una negacion o inversion de lo que se dice. Supongamos que "A"" es igual a "Verdadero", si ahora pongo "!A" esto seria igual a "Falso". Algo asi como el menos delante del parentesis 

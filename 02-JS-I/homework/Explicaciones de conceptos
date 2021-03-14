@@ -1,0 +1,7 @@
+Variable: una variable es como una caja donde se puede meter cualquier dato que se nos ocurra (numeros, letras y mas)
+
+String: string es lo que se llama una cadena de texto. En resumen son cualquier simbolo, letra o numero. Para poder escribirlos deben ir dentro de comillas
+
+Funciones: son un objeto en el que puedo guardar codigo y luego llamarlo para poder usarlo. Dentro de estas puede haber variables a las que puedo asignar valores al momento de llamar la funcion, las cuales se llaman ARGUMENTOS. Las funciones van a devolver valores, los cuales la unica forma de poder llamarlos o utilizarlos fuera de esta funcion es con la palabra RETURN.
+
+Control de flujo: el control de flujo se da con la funcion IF, la cual decide (segun parametros ya establecidos por nosotros) si algo es verdadero o falso (valores booleanos), con lo cual ya podemos empezar a generar distintas opciones o rutas para nuestro programa. Dentro de esto vamos a utilizar operadores de comparacion (>, <, >=, <=, ===, !==)

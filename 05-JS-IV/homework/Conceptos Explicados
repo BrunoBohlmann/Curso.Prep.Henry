@@ -1,0 +1,10 @@
+Objetos: los objetos son como los array, nada mas que en los elementos dentro de esta, en vez de tener un numero para su posicion, tienen una propiedad o palabra para identificarlas. 
+
+Propiedades: las propiedades son los elementos dentro de un objeto, los cuales (como ya explique antes) tienen una clave que los identifica y un valor que se almacena dentro.
+
+Metodos: los metodos son funciones dentro de un objeto
+
+Bucle for in: es un bucle que recorre las propiedades de un objeto
+
+La notacion de puntos sirve para llamar o acceder a una propiedad dentro de un objeto.
+La notacion de corchetes sirve para lo mismo, pero tambien para utilizar variables o introducir datos dentro de la propiedad u objeto.

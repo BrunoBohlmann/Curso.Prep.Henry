@@ -1,0 +1,84 @@
+body{
+	background-image: url(https://www.xtrafondos.com/descargar.php?id=56&resolucion=1920x1080);
+	background-size: cover;
+}
+
+#Contenedor{
+	color: white;
+	width:80%;
+	padding: 50px;
+	padding-top: 30px;
+	margin: 0% auto;
+	margin-top: 30px;
+	background-color: #00000095;
+}
+
+
+#Portada{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+img{
+	width:250px;
+}
+
+h1{
+	font-size: 30px;
+	font-family: monospace;
+	text-shadow: 2px 1px 3px grey;
+}
+
+h1:hover{
+	color: black;
+}
+
+
+h2:hover{
+	color: black;
+}
+
+#Presentacion{
+	padding: 20px;
+	border:3px solid grey;
+	text-align: center;
+}
+#Presentacion:hover{
+	background-color: #79797990;
+}
+
+
+
+
+#About{
+	margin-top:30px;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.Info{
+	width: 300px;
+	padding: 10px;
+	background-color: #00000090;
+	border-radius: 10%;
+}
+.Info:hover{
+	background-color: #79797990;
+}
+.Info h2{
+	text-align: center;
+}
+
+
+
+
+#Estudio{
+	margin-top:20px; 
+	text-align: center;
+	border: 3px solid white;
+}
+
+#Estudio:hover{
+	background: linear-gradient(to top, black, #CBC913);;
+}
